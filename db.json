@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "body": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos": [
+    {
+      "id": 1,
+      "title": "uiuiiiuiuiiuui",
+      "body": "Something_1"
+    },
+    {
+      "id": 2,
+      "title": "Hello_2",
+      "body": "Something_2"
+    },
+    {
+      "id": 3,
+      "title": "Hello_3",
+      "body": "Something_3"
+    },
+    {
+      "id": 5,
+      "title": "Hello_5",
+      "body": "Something_5"
+    },
+    {
+      "title": "number 7",
+      "body": "number 7",
+      "id": 7
+    }
+  ]
+}
